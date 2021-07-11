@@ -1,3 +1,6 @@
+// Copyright (C) 2019-2020
+// Dylan Muller
+
 const YM_CLOCK_ZX = 1750000;
 const FIR = 
 
